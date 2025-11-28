@@ -1,0 +1,83 @@
+[
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "1. What is 12 × 3?",
+      "options": ["36", "30", "42", "32"],
+      "answer": "36",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "2. What is 9 × 8?",
+      "options": ["72", "81", "64", "70"],
+      "answer": "72",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "3. What is 15 × 4?",
+      "options": ["60", "45", "55", "65"],
+      "answer": "60",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "4. What is 11 × 6?",
+      "options": ["66", "64", "72", "60"],
+      "answer": "66",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "5. What is 13 × 7?",
+      "options": ["91", "84", "86", "89"],
+      "answer": "91",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "6. What is 14 × 5?",
+      "options": ["70", "65", "60", "75"],
+      "answer": "70",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "7. What is 16 × 3?",
+      "options": ["48", "45", "50", "46"],
+      "answer": "48",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "8. What is 17 × 2?",
+      "options": ["34", "32", "30", "36"],
+      "answer": "34",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "9. What is 18 × 5?",
+      "options": ["90", "85", "95", "80"],
+      "answer": "90",
+      "time": 30
+    },
+    {
+      "difficulty": "Medium",
+      "xp": 80,
+      "question": "10. What is 19 × 4?",
+      "options": ["76", "74", "78", "72"],
+      "answer": "76",
+      "time": 30
+    }
+  ]
+  

@@ -1,0 +1,82 @@
+[
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "1. Solve for x: 2x + 5 = 17",
+      "options": ["x = 6", "x = 4", "x = 5", "x = 8"],
+      "answer": "x = 6",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "2. Solve for x: 3(x - 4) = 18",
+      "options": ["x = 2", "x = 10", "x = 8", "x = 6"],
+      "answer": "x = 10",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "3. Simplify: 5x - 3x + 2 = 12",
+      "options": ["x = 5", "x = 6", "x = 7", "x = 4"],
+      "answer": "x = 5",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "4. Solve for x: 2(x + 3) = 4x - 6",
+      "options": ["x = 2", "x = -2", "x = 0", "x = 4"],
+      "answer": "x = -2",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "5. Solve for x: 4x - 7 = 3x + 5",
+      "options": ["x = 3", "x = 12", "x = -12", "x = 8"],
+      "answer": "x = 12",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "6. Solve for x: 3x + 2 = 2x + 8",
+      "options": ["x = 6", "x = 8", "x = 3", "x = 2"],
+      "answer": "x = 6",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "7. Solve for x: 5(x - 3) = 3x + 7",
+      "options": ["x = 10", "x = 5", "x = 8", "x = 6"],
+      "answer": "x = 8",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "8. Simplify: 7x - 4x + 9 = 20",
+      "options": ["x = 2", "x = 4", "x = 5", "x = 3"],
+      "answer": "x = 3",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "9. Solve for x: 4(x - 5) + 2 = 3x - 7",
+      "options": ["x = 7", "x = -3", "x = 9", "x = 2"],
+      "answer": "x = 7",
+      "time": 30
+    },
+    {
+      "difficulty": "Hard",
+      "xp": 300,
+      "question": "10. Solve for x: 6(x - 2) = 4x + 8",
+      "options": ["x = 4", "x = 6", "x = 5", "x = 2"],
+      "answer": "x = 4",
+      "time": 30
+    }
+  ]
